@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "produto": "Pizza Calabresa",
+    "descricao": "Calabresa fatiada, molho de tomate, cebola e orégano.",
+    "imagem": "./pizzas/calabresa.jpg"
+  },
+  {
+    "id": 2,
+    "produto": "Pizza Marguerita",
+    "descricao": "Fatias de tomate fresco, queijo derretido e orégano.",
+    "imagem": "./pizzas/marguerita.jpg"
+  },
+  {
+    "id": 3,
+    "produto": "Pizza Mussarela",
+    "descricao": "Camada generosa de queijo mussarela derretido e oréga.",
+    "imagem": "./pizzas/mussarela.jpg"
+  },
+  {
+    "id": 4,
+    "produto": "Pizza Pepperoni",
+    "descricao": "Fatias crocantes de pepperoni sobre queijo derretido.",
+    "imagem": "./pizzas/pepperoni.jpg"
+  },
+  {
+    "id": 5,
+    "produto": "Pizza Presunto",
+    "descricao": "Fatias de presunto selecionado com queijo derretido.",
+    "imagem": "./pizzas/presunto.jpg"
+  },
+  {
+    "id": 6,
+    "produto": "Pizza Quatro Queijos",
+    "descricao": "Mistura especial de queijos selecionados e bacon crocante.",
+    "imagem": "./pizzas/queijo.jpg"
+  }
+]
